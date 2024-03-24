@@ -1,2 +1,2 @@
-# Simple c# Project.
+# Simple c# Projects.
 Simple Calculator for Grading Student Grades
